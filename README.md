@@ -28,7 +28,7 @@ Plot the error convergence during training using plt.plot() and plt.show().
 Program:
 ```
 Name : R.K Pragalyaa shree
-Register Number : 212221243001
+Register Number : 212221040125
 ```
 ```python
 import numpy as np
