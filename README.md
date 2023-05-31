@@ -27,7 +27,7 @@ Plot the error convergence during training using plt.plot() and plt.show().
 
 Program:
 ```
-Name : Balaji J
+Name : R.K Pragalyaa shree
 Register Number : 212221243001
 ```
 ```python
